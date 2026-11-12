@@ -1,6 +1,7 @@
 # Final-de-poo
 
 Primero analise bien el ejercicio y todo lo puse dentro del paquete de Final, en el cual esta
+
 -Paquete,Estandar,Express, Fragil que son los tipos de paque
 -ManejoEspecial: Es la interfaz para los pauqetes
 -Zona: Esta el enum
